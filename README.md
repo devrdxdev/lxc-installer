@@ -5,7 +5,6 @@ A beautiful, feature-rich bash script for automated LXC and LXD installation on 
 [![LXC-LXD](https://img.shields.io/badge/LXC-LXD-blue)](https://img.shields.io/badge/LXC-LXD-blue)
 [![Bash](https://img.shields.io/badge/Bash-4.0%2B-green)](https://img.shields.io/badge/Bash-4.0%252B-green)
 [![Platform](https://img.shields.io/badge/Platform-Ubuntu%20%7C%20Debian-orange)](https://img.shields.io/badge/Platform-Ubuntu%2520%257C%2520Debian-orange)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## ✨ Features
 
