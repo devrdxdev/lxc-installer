@@ -46,5 +46,5 @@ A beautiful, feature-rich bash script for automated LXC and LXD installation on 
 ### Installation
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/lxc-installer/main/lxc-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/devrdxdev/lxc-installer/refs/heads/main/lxc-installer.sh)
 ```
